@@ -1,7 +1,6 @@
-.card-w-50-mb-4{
-    background: white;
-    display: flex;
-    width: 400px;
-    margin: auto;
-    margin-top: 25px;
+
+.button-createPost{ 
+    display:flex;
+    position:flex-end;
+    align-items: right !important;
 }

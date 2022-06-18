@@ -1,6 +1,5 @@
 
-.button-createPost{ 
-    display:flex;
-    position:flex-end;
-    align-items: right !important;
+.container3{
+    align-items: flex-end;
+    justify-content: end;
 }

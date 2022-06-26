@@ -3,6 +3,6 @@
     align-items: flex-end;
     justify-content: end;
 } */
-/* .dropdown{
-    float: rigth;
-} */
+.dropdown{
+    float: right !important;
+}
